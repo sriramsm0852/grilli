@@ -1,6 +1,6 @@
 Grilli - Amazing & Delicious Food
 
-This is a Restaurant html template made by codewithsadee
+This is a Restaurant html template made by sriram
 
 
 
@@ -343,7 +343,7 @@ Google Map
 
 https://github.com/sriramsm0852
 
-codewithsadee
+sriram
 
 
 
